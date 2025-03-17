@@ -1,6 +1,6 @@
 # Awesome OpenFHE
 
-A curated list of open-source tools, tutorials, applications, publications, and other resources related to OpenFHE
+A curated list of tools, products, tutorials, applications, publications, and other resources related to OpenFHE.
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Tutorials](#tutorials)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
-* [Publications on Applications Implemented in OpenFHE](#publications-on-applications-implemented-in-openfhe)
+* [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
@@ -45,7 +45,9 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
 
-## Publications on Applications Implemented in OpenFHE
+## Publications on Applications Implemented using OpenFHE
+
+Many of these publications have their open-source implementations available.
 
 * [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security 2025.
 * [Secure and scalable gene expression quantification with pQuant](https://www.nature.com/articles/s41467-025-57393-6) - Nature Communications 2025.
