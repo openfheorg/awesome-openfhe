@@ -9,6 +9,7 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Tutorials](#tutorials)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
+* [Publications with Applications Implemented in OpenFHE](#publications-with-applications-implemented-in-openfhe)
 
 ## OpenFHE Software Interfaces and Hardware Backends
 
@@ -41,4 +42,8 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [FHERMA](https://fherma.io/)
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
+
+## Publications with Applications Implemented in OpenFHE
+
+* [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security'25
 
