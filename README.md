@@ -9,7 +9,9 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Tutorials](#tutorials)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
-* [Publications with Applications Implemented in OpenFHE](#publications-with-applications-implemented-in-openfhe)
+* [Publications on Applications Implemented in OpenFHE](#publications-on-applications-implemented-in-openfhe)
+* [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
+* [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
 ## OpenFHE Software Interfaces and Hardware Backends
 
@@ -43,8 +45,19 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
 
-## Publications with Applications Implemented in OpenFHE
+## Publications on Applications Implemented in OpenFHE
 
 * [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security'25.
+* [HEPrune: fast private training of deep neural networks with encrypted data pruning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b26b9e634ba10f6c51c6db7365c4c28-Paper-Conference.pdf) - NeurIPS 2024.
+* [Encrypted image classification with low memory footprint using fully homomorphic encryption](https://eprint.iacr.org/2024/460) - International Journal of Neural Systems 2024.
 * [Collaborative privacy-preserving analysis of oncological data using multiparty homomorphic encryption](https://www.pnas.org/doi/10.1073/pnas.2304415120) - Proceedings of the National Academy of Sciences (PNAS) 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
+
+## Publications Describing OpenFHE Crypto Algorithms
+
+## Publications with New Crypto Algorithms
+
+OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
+
+* [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT'24
+
