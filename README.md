@@ -1,6 +1,6 @@
 # Awesome OpenFHE
 
-A curated list of tools, products, tutorials, applications, publications, and other resources related to OpenFHE.
+A curated list of amazing tools, products, tutorials, applications, publications, and other resources related to OpenFHE.
 
 ## Table of Contents
 
@@ -35,8 +35,8 @@ A curated list of tools, products, tutorials, applications, publications, and ot
 
 ## Lists of Open-Source User Projects
 
-* [Contrib repository](https://github.com/openfheorg/contrib): a curated list of open-source community-contributed projects based on OpenFHE.
-* [Show & Tell](https://openfhe.discourse.group/c/application/5): projects shared in the OpenFHE Discourse forum.
+* [Contrib repository](https://github.com/openfheorg/contrib) - A curated list of open-source community-contributed projects based on OpenFHE.
+* [Show & Tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
 
 ## Products and Solutions using OpenFHE
 
