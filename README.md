@@ -15,23 +15,23 @@ A curated list of tools, products, tutorials, applications, publications, and ot
 
 ## OpenFHE Software Interfaces and Hardware Backends
 
-* [openfhe-development](https://github.com/openfheorg/openfhe-development): official C++ version.
-* [openfhe-python](https://github.com/openfheorg/openfhe-python): official Python wrapper for OpenFHE.
-* [openfhe-rs](https://github.com/fairmath/openfhe-rs): Rust inteface by FairMath.
-* [openfhe-julia](https://github.com/hpsc-lab/openfhe-julia): Julia interface led by Prof. Michael Schlottke-Lakemper, University of Augsburg.
-* [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl): Intel HEXL library backend for OpenFHE.
+* [openfhe-development](https://github.com/openfheorg/openfhe-development) - Official C++ version.
+* [openfhe-python](https://github.com/openfheorg/openfhe-python) - Official Python wrapper for OpenFHE.
+* [openfhe-rs](https://github.com/fairmath/openfhe-rs) - Rust inteface by FairMath.
+* [openfhe-julia](https://github.com/hpsc-lab/openfhe-julia) - Julia interface led by Prof. Michael Schlottke-Lakemper, University of Augsburg.
+* [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE.
 
 ## Documentation Resources
 
-* [ReadTheDocs documentation](https://openfhe-development.readthedocs.io/en/latest/): main documentation for OpenFHE.
-* [Community Discourse Forum](https://openfhe.discourse.group/): covers library and general FHE questions.
-* [Education](https://github.com/openfheorg/education): educational resources on FHE and OpenFHE led by Prof. Bill Buchanan, Edinburgh Napier University.
+* [ReadTheDocs documentation](https://openfhe-development.readthedocs.io/en/latest/) - Main documentation for OpenFHE.
+* [Community Discourse Forum](https://openfhe.discourse.group/) - Covers library and general FHE questions.
+* [Education](https://github.com/openfheorg/education) - Educational resources on FHE and OpenFHE led by Prof. Bill Buchanan, Edinburgh Napier University.
 
 ## Tutorials
 
 * [Homomorphic Encryption using OpenFHE](https://www.youtube.com/watch?v=1aeasUAoUAA) - August 2024.
 * [OpenFHE AAAI 2024 Tutorial (Python)](https://github.com/openfheorg/aaai-2024-lab-materials) - February 2024.
-* [PALISADE (OpenFHE Predecessor) Webinars](https://openfhe.org/webinars/) - 2020 to 2021
+* [PALISADE (OpenFHE predecessor) webinars](https://openfhe.org/webinars/) - 2020 to 2021
 
 ## Lists of Open-Source User Projects
 
