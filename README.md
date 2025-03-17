@@ -55,6 +55,15 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
+* [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - CiC 2025.
+* [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT'23.
+* [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT'22.
+* [Approximate homomorphic encryption with reduced approximation error](https://eprint.iacr.org/2020/1118) - CT-RSA'22.
+* [Revisiting homomorphic encryption schemes for finite fields](https://eprint.iacr.org/2021/204) - ASIACRYPT'21.
+* [Bootstrapping in FHEW-like cryptosystems](https://eprint.iacr.org/2020/086) - WAHC'21.
+* [Implementation and performance evaluation of RNS variants of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/589) - IEEE Transactions on Emerging Topics in Computing 2021.
+* [An improved RNS variant of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/117) - CT-RSA'19.
+
 ## Publications with New Crypto Algorithms
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
