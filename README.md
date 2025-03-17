@@ -55,6 +55,7 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Summation-based private segmented membership test from threshold-fully homomorphic encryption](https://eprint.iacr.org/2024/753) - PETS 2024.
 * [Improved multiplication-free biometric recognition under encryption](https://doi.org/10.1109/TBIOM.2023.3340306) - IEEE Transactions on Biometrics, Behavior, and Identity Science 2023.
 * [Collaborative privacy-preserving analysis of oncological data using multiparty homomorphic encryption](https://www.pnas.org/doi/10.1073/pnas.2304415120) - Proceedings of the National Academy of Sciences (PNAS) 2023.
+* [HELiKs: HE linear algebra kernels for secure inference](https://dl.acm.org/doi/10.1145/3576915.3623136) - ACM CCS 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
 ## Publications Describing OpenFHE Crypto Algorithms
