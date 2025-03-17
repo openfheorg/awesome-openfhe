@@ -47,26 +47,35 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 
 ## Publications on Applications Implemented in OpenFHE
 
-* [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security'25.
+* [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security 2025.
+* [Secure and scalable gene expression quantification with pQuant](https://www.nature.com/articles/s41467-025-57393-6) - Nature Communications 2025.
 * [HEPrune: fast private training of deep neural networks with encrypted data pruning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b26b9e634ba10f6c51c6db7365c4c28-Paper-Conference.pdf) - NeurIPS 2024.
 * [Encrypted image classification with low memory footprint using fully homomorphic encryption](https://eprint.iacr.org/2024/460) - International Journal of Neural Systems 2024.
+* [Towards efficient communication and secure federated recommendation system via low-rank training](https://arxiv.org/abs/2401.03748) - ACM Web Conference 2024.
+* [Summation-based private segmented membership test from threshold-fully homomorphic encryption](https://eprint.iacr.org/2024/753) - PETS 2024.
+* [Improved multiplication-free biometric recognition under encryption](https://doi.org/10.1109/TBIOM.2023.3340306) - IEEE Transactions on Biometrics, Behavior, and Identity Science 2023.
 * [Collaborative privacy-preserving analysis of oncological data using multiparty homomorphic encryption](https://www.pnas.org/doi/10.1073/pnas.2304415120) - Proceedings of the National Academy of Sciences (PNAS) 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
+The algorithms in these publications are already included in the official versions of OpenFHE.
+
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - CiC 2025.
-* [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT'23.
-* [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT'22.
-* [Approximate homomorphic encryption with reduced approximation error](https://eprint.iacr.org/2020/1118) - CT-RSA'22.
-* [Revisiting homomorphic encryption schemes for finite fields](https://eprint.iacr.org/2021/204) - ASIACRYPT'21.
-* [Bootstrapping in FHEW-like cryptosystems](https://eprint.iacr.org/2020/086) - WAHC'21.
+* [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
+* [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT 2022.
+* [Approximate homomorphic encryption with reduced approximation error](https://eprint.iacr.org/2020/1118) - CT-RSA 2022.
+* [Revisiting homomorphic encryption schemes for finite fields](https://eprint.iacr.org/2021/204) - ASIACRYPT 2021.
+* [Bootstrapping in FHEW-like cryptosystems](https://eprint.iacr.org/2020/086) - WAHC 2021.
 * [Implementation and performance evaluation of RNS variants of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/589) - IEEE Transactions on Emerging Topics in Computing 2021.
-* [An improved RNS variant of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/117) - CT-RSA'19.
+* [An improved RNS variant of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/117) - CT-RSA 2019.
 
 ## Publications with New Crypto Algorithms
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
-* [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT'24
+* [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
+* [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) -  IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
+* [Fast blind rotation for bootstrapping FHEs](https://eprint.iacr.org/2023/1564) - CRYPTO 2023.
+* [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
 
