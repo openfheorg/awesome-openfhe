@@ -62,7 +62,7 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 
 The algorithms in these publications are already included in the official versions of OpenFHE.
 
-* [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - CiC 2025.
+* [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
 * [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
 * [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT 2022.
 * [Approximate homomorphic encryption with reduced approximation error](https://eprint.iacr.org/2020/1118) - CT-RSA 2022.
