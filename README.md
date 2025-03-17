@@ -8,7 +8,7 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Documentation Resources](#documentation-resources)
 * [Tutorials](#tutorials)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
-* [Products and Solutions based on OpenFHE](#products-and-solutions-based-on-openfhe)
+* [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
 
 ## OpenFHE Software Interfaces and Hardware Backends
 
@@ -35,9 +35,10 @@ A curated list of open-source tools, tutorials, applications, publications, and 
 * [Contrib repository](https://github.com/openfheorg/contrib): a curated list of open-source community-contributed projects based on OpenFHE.
 * [Show & Tell](https://openfhe.discourse.group/c/application/5): projects shared in the OpenFHE Discourse forum.
 
-## Products and Solutions based on OpenFHE
+## Products and Solutions using OpenFHE
 
 * [Duality Query Engine](https://dualitytech.com/platform/duality-query/)
+* [FHERMA](https://fherma.io/)
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
 
