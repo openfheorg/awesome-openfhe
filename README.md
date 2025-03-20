@@ -62,10 +62,13 @@ Many of these publications have their open-source implementations available.
 * [Encrypted image classification with low memory footprint using fully homomorphic encryption](https://eprint.iacr.org/2024/460) - International Journal of Neural Systems 2024.
 * [Towards efficient communication and secure federated recommendation system via low-rank training](https://arxiv.org/abs/2401.03748) - ACM Web Conference 2024.
 * [Summation-based private segmented membership test from threshold-fully homomorphic encryption](https://eprint.iacr.org/2024/753) - PETS 2024.
+* [Encrypted system identification as-a-service via reliable encrypted matrix inversion](https://ieeexplore.ieee.org/document/10886076) - IEEE Conference on Decision and Control 2024.
+* [Towards secure AI-empowered vehicular networks: a federated learning approach using homomorphic encryption](https://ieeexplore.ieee.org/document/10757744) - IEEE Vehicular Technology Conference 2024.
 * [Improved multiplication-free biometric recognition under encryption](https://doi.org/10.1109/TBIOM.2023.3340306) - IEEE Transactions on Biometrics, Behavior, and Identity Science 2023.
 * [Collaborative privacy-preserving analysis of oncological data using multiparty homomorphic encryption](https://www.pnas.org/doi/10.1073/pnas.2304415120) - Proceedings of the National Academy of Sciences (PNAS) 2023.
 * [HELiKs: HE linear algebra kernels for secure inference](https://dl.acm.org/doi/10.1145/3576915.3623136) - ACM CCS 2023.
 * [H3PC: enhanced security and privacy-preserving platoon construction based on fully homomorphic encryption](https://doi.org/10.1109/ITSC57777.2023.10422518) - IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023.
+* [HeSUN: homomorphic encryption for secure unbounded neural network inference](https://link.springer.com/chapter/10.1007/978-3-031-64948-6_21) - International Conference on Security and Privacy in Communication Systems 2023
 * [A probabilistic design for practical homomorphic majority voting with intrinsic differential privacy](https://doi.org/10.1145/3605759.3625258) - WAHC 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
@@ -87,8 +90,9 @@ The algorithms in these publications are already included in the official versio
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
 * [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
-* [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) -  IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
+* [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
 * [Fast and accurate: efficient full-domain functional bootstrap and digit decomposition for homomorphic computation](https://tches.iacr.org/index.php/TCHES/article/view/11263/10805) -  IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
+* [Non-interactive private multivariate function evaluation using homomorphic table lookup](https://cic.iacr.org/p/1/3/19/pdf) - IACR Communications in Cryptology (CiC) 2024.
 * [Fast blind rotation for bootstrapping FHEs](https://eprint.iacr.org/2023/1564) - CRYPTO 2023.
 * [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
 
