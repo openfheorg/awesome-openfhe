@@ -56,6 +56,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 Many of these publications have their open-source implementations available.
 
+* [Engorgio: an arbitrary-precision unbounded-size hybrid encrypted database via quantized fully homomorphic encryption](https://eprint.iacr.org/2025/198) - USENIX Security 2025.
 * [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security 2025.
 * [Secure and scalable gene expression quantification with pQuant](https://www.nature.com/articles/s41467-025-57393-6) - Nature Communications 2025.
 * [HEPrune: fast private training of deep neural networks with encrypted data pruning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b26b9e634ba10f6c51c6db7365c4c28-Paper-Conference.pdf) - NeurIPS 2024.
