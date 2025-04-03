@@ -46,6 +46,9 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [CHIFHE](https://github.com/SKLC-FHE/CHIFHE) - NTRU-based LMKCDEY scheme implementation.
 * [CircuitBootstrap](https://github.com/LightFHE/CircuitBootstrap) - Circuit bootstrapping based on the improved LMKCDEY FHE scheme.
 * [zkOpenFHE](https://github.com/zkFHE/zkOpenFHE) - A ZKP-augmented fork of the OpenFHE library.
+* [palisade-signature](https://gitlab.com/palisade/palisade-signature) - lattice-based digital signature based on PALISADE (OpenFHE predecessor)
+* [palisade-abe](https://gitlab.com/palisade/palisade-abe) - lattice-based IBE and ciphertext-policy ABE based on PALISADE (OpenFHE predecessor)
+* [palisade-trapdoor](https://gitlab.com/palisade/palisade-trapdoor) - lattice-based key-policy ABE, progam obfuscation, and subgaussian sampling based on PALISADE (OpenFHE predecessor)
 
 ## Lists of Open-Source User Projects
 
@@ -75,8 +78,9 @@ Many of these publications have their open-source implementations available.
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
-The algorithms in these publications are already included in the official versions of OpenFHE.
+The algorithms in these publications are already implemented in the official versions of OpenFHE.
 
+### FHE Algorithms
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
 * [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
 * [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT 2022.
@@ -85,6 +89,13 @@ The algorithms in these publications are already included in the official versio
 * [Bootstrapping in FHEW-like cryptosystems](https://eprint.iacr.org/2020/086) - WAHC 2021.
 * [Implementation and performance evaluation of RNS variants of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/589) - IEEE Transactions on Emerging Topics in Computing 2021.
 * [An improved RNS variant of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/117) - CT-RSA 2019.
+
+### Lattice Trapdoor Sampling Algorithms
+* [Implementing token-based obfuscation under (Ring) LWE](https://eprint.iacr.org/2018/1222) - WAHC 2020.
+* [Building an efficient lattice gadget toolkit: subgaussian sampling and more](https://eprint.iacr.org/2018/946) - EUROCRYPT 2019.
+* [Implementing conjunction obfuscation under entropic Ring LWE](https://eprint.iacr.org/2017/844) - IEEE Symposium on Security & Privacy (SP) 2018.
+* [Faster Gaussian sampling for trapdoor lattices with arbitrary modulus](https://eprint.iacr.org/2017/308) - EUROCRYPT 2018.
+* [Gaussian sampling over the integers: efficient, generic, constant-time](https://eprint.iacr.org/2017/259) - CRYPTO 2017.
 
 ## Publications with New Crypto Algorithms
 
