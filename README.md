@@ -78,7 +78,7 @@ Many of these publications have their open-source implementations available.
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
-The algorithms in these publications are already implemented in the official versions of OpenFHE.
+The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of projects advancing OpenFHE or its predecessors.
 
 ### FHE Algorithms
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
@@ -89,6 +89,7 @@ The algorithms in these publications are already implemented in the official ver
 * [Bootstrapping in FHEW-like cryptosystems](https://eprint.iacr.org/2020/086) - WAHC 2021.
 * [Implementation and performance evaluation of RNS variants of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/589) - IEEE Transactions on Emerging Topics in Computing 2021.
 * [An improved RNS variant of the BFV homomorphic encryption scheme](https://eprint.iacr.org/2018/117) - CT-RSA 2019.
+* [FHEW: bootstrapping homomorphic encryption in less than a second](https://eprint.iacr.org/2014/816) - EUROCRYPT 2015.
 
 ### Lattice Trapdoor Sampling Algorithms
 * [Implementing token-based obfuscation under (Ring) LWE](https://eprint.iacr.org/2018/1222) - WAHC 2020.
