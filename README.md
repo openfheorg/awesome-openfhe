@@ -78,7 +78,7 @@ Many of these publications have their open-source implementations available.
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
-The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of projects advancing OpenFHE or its predecessors.
+The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one co-author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of research projects advancing OpenFHE or its predecessors.
 
 ### FHE Algorithms
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
