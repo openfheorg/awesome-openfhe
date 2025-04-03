@@ -46,9 +46,9 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [CHIFHE](https://github.com/SKLC-FHE/CHIFHE) - NTRU-based LMKCDEY scheme implementation.
 * [CircuitBootstrap](https://github.com/LightFHE/CircuitBootstrap) - Circuit bootstrapping based on the improved LMKCDEY FHE scheme.
 * [zkOpenFHE](https://github.com/zkFHE/zkOpenFHE) - A ZKP-augmented fork of the OpenFHE library.
-* [palisade-signature](https://gitlab.com/palisade/palisade-signature) - lattice-based digital signature based on PALISADE (OpenFHE predecessor)
-* [palisade-abe](https://gitlab.com/palisade/palisade-abe) - lattice-based IBE and ciphertext-policy ABE based on PALISADE (OpenFHE predecessor)
-* [palisade-trapdoor](https://gitlab.com/palisade/palisade-trapdoor) - lattice-based key-policy ABE, progam obfuscation, and subgaussian sampling based on PALISADE (OpenFHE predecessor)
+* [palisade-abe](https://gitlab.com/palisade/palisade-abe) - Lattice-based IBE and ciphertext-policy ABE based on PALISADE (OpenFHE predecessor)
+* [palisade-signature](https://gitlab.com/palisade/palisade-signature) - Lattice-based digital signature based on PALISADE (OpenFHE predecessor)
+* [palisade-trapdoor](https://gitlab.com/palisade/palisade-trapdoor) - Lattice-based key-policy ABE, progam obfuscation, and subgaussian sampling based on PALISADE (OpenFHE predecessor)
 
 ## Lists of Open-Source User Projects
 
