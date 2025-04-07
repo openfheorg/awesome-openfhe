@@ -68,6 +68,7 @@ Many of these publications have their open-source implementations available.
 * [Summation-based private segmented membership test from threshold-fully homomorphic encryption](https://eprint.iacr.org/2024/753) - PETS 2024.
 * [Encrypted system identification as-a-service via reliable encrypted matrix inversion](https://ieeexplore.ieee.org/document/10886076) - IEEE Conference on Decision and Control 2024.
 * [Towards secure AI-empowered vehicular networks: a federated learning approach using homomorphic encryption](https://ieeexplore.ieee.org/document/10757744) - IEEE Vehicular Technology Conference 2024.
+* [Private pathological assessment via machine learning and homomorphic encryption](https://doi.org/10.1186/s13040-024-00379-9) - BioData Mining 2024. 
 * [Improved multiplication-free biometric recognition under encryption](https://doi.org/10.1109/TBIOM.2023.3340306) - IEEE Transactions on Biometrics, Behavior, and Identity Science 2023.
 * [Collaborative privacy-preserving analysis of oncological data using multiparty homomorphic encryption](https://www.pnas.org/doi/10.1073/pnas.2304415120) - Proceedings of the National Academy of Sciences (PNAS) 2023.
 * [HELiKs: HE linear algebra kernels for secure inference](https://dl.acm.org/doi/10.1145/3576915.3623136) - ACM CCS 2023.
