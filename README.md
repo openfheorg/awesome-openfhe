@@ -10,6 +10,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
 * [Extensions of OpenFHE](#extensions-of-openfhe)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
+* [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
 * [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
@@ -54,6 +55,12 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [Contrib repository](https://github.com/openfheorg/contrib) - A curated list of open-source community-contributed projects based on OpenFHE.
 * [Show & tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
+
+## Videos of Conference Talks on Applications Implemented using OpenFHE
+
+* [QRYPT: End-to-End Encrypted Audio Calls via Blind Audio Mixing (Nokia Bell Labs)](https://youtu.be/6FQX2otSbuE?t=2440) - Real Word Crypto 2025.
+* [OpenFHE (with Focus on Applications)](https://youtu.be/uiI8bSdNkrg?si=bHvJibjcCqT6fjMh) - FHE.org Conference 2025.
+* [Privacy-Preserving Collision-Risk Assessment for LEO Satellites](https://youtu.be/S7dmbaTR2ps?si=b5cUrrgzkDxEyf9r) - FHE.org Conference 2025.
 
 ## Publications on Applications Implemented using OpenFHE
 
