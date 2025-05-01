@@ -55,6 +55,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [Contrib repository](https://github.com/openfheorg/contrib) - A curated list of open-source community-contributed projects based on OpenFHE.
 * [Show & tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
+* [Diamond Indistinguishability Obfuscation](https://github.com/MachinaIO/diamond-io) - See the [blog post](https://machina-io.com/posts/hello_world_first.html) for more information.
 
 ## Videos of Conference Talks on Applications Implemented using OpenFHE
 
