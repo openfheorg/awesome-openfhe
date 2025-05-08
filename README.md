@@ -111,6 +111,7 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [General functional bootstrapping using CKKS](https://eprint.iacr.org/2024/1623) - CRYPTO 2025
 * [NTRU-based bootstrapping for MK-FHEs without using overstretched parameters](https://eprint.iacr.org/2024/1898) - ASIACRYPT 2024
 * [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
 * [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
