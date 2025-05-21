@@ -20,6 +20,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [openfhe-development](https://github.com/openfheorg/openfhe-development) - Official C++ version.
 * [openfhe-python](https://github.com/openfheorg/openfhe-python) - Official Python wrapper for OpenFHE.
 * [openfhe-rs](https://github.com/fairmath/openfhe-rs) - Rust inteface by FairMath.
+* [openfhe-wasm](https://github.com/openfheorg/openfhe-wasm) - Official WebAssembly (NodeJS) port.
 * [openfhe-julia](https://github.com/hpsc-lab/openfhe-julia) - Julia interface led by Prof. Michael Schlottke-Lakemper, University of Augsburg.
 
 ## Documentation Resources
@@ -36,7 +37,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 ## Products and Solutions using OpenFHE
 
-* [Duality Query Engine](https://dualitytech.com/platform/duality-query/)
+* [Duality Query](https://dualitytech.com/platform/duality-query/)
 * [FHERMA](https://fherma.io/)
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
@@ -92,6 +93,7 @@ The algorithms in these publications are already implemented in the official dis
 ### FHE Algorithms
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
 * [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
+* [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
 * [Large-precision homomorphic sign evaluation using FHEW/TFHE bootstrapping](https://eprint.iacr.org/2021/1337) - ASIACRYPT 2022.
 * [Approximate homomorphic encryption with reduced approximation error](https://eprint.iacr.org/2020/1118) - CT-RSA 2022.
 * [Revisiting homomorphic encryption schemes for finite fields](https://eprint.iacr.org/2021/204) - ASIACRYPT 2021.
@@ -118,5 +120,4 @@ OpenFHE was used to implement the new algorithms referenced below. Note that the
 * [Fast and accurate: efficient full-domain functional bootstrap and digit decomposition for homomorphic computation](https://tches.iacr.org/index.php/TCHES/article/view/11263/10805) -  IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
 * [Non-interactive private multivariate function evaluation using homomorphic table lookup](https://cic.iacr.org/p/1/3/19/pdf) - IACR Communications in Cryptology (CiC) 2024.
 * [Fast blind rotation for bootstrapping FHEs](https://eprint.iacr.org/2023/1564) - CRYPTO 2023.
-* [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
 
