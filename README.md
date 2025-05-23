@@ -19,7 +19,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [openfhe-development](https://github.com/openfheorg/openfhe-development) - Official C++ version.
 * [openfhe-python](https://github.com/openfheorg/openfhe-python) - Official Python wrapper for OpenFHE.
-* [openfhe-rs](https://github.com/fairmath/openfhe-rs) - Rust inteface by FairMath.
+* [openfhe-rs](https://github.com/fairmath/openfhe-rs) - Rust interface by FairMath.
 * [openfhe-wasm](https://github.com/openfheorg/openfhe-wasm) - Official WebAssembly (NodeJS) port.
 * [openfhe-julia](https://github.com/hpsc-lab/openfhe-julia) - Julia interface led by Prof. Michael Schlottke-Lakemper, University of Augsburg.
 
