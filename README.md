@@ -8,6 +8,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Documentation Resources](#documentation-resources)
 * [Tutorials](#tutorials)
 * [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
+* [Hardware Acceleration](#hardware-acceleration)
 * [Extensions of OpenFHE](#extensions-of-openfhe)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
@@ -42,9 +43,13 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
 
-## Extensions of OpenFHE
+## Hardware Acceleration
 
 * [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
+* [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - A server-side CKKS GPU library fully interoperable with OpenFHE.
+
+## Extensions of OpenFHE
+
 * [CHIFHE](https://github.com/SKLC-FHE/CHIFHE) - NTRU-based LMKCDEY scheme implementation.
 * [CircuitBootstrap](https://github.com/LightFHE/CircuitBootstrap) - Circuit bootstrapping based on the improved LMKCDEY FHE scheme.
 * [zkOpenFHE](https://github.com/zkFHE/zkOpenFHE) - A ZKP-augmented fork of the OpenFHE library.
