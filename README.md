@@ -13,6 +13,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
 * [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
+* [Publications on Private LLM Inference Implemented using OpenFHE](#publications-on-private-llm-inference-implemented-using-OpenFHE)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
@@ -95,6 +96,7 @@ Many of these publications have their open-source implementations available.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
 ## Publications on Private LLM Inference Implemented using OpenFHE
+
 * [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
 
 ## Publications Describing OpenFHE Crypto Algorithms
