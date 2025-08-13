@@ -94,6 +94,9 @@ Many of these publications have their open-source implementations available.
 * [A probabilistic design for practical homomorphic majority voting with intrinsic differential privacy](https://doi.org/10.1145/3605759.3625258) - WAHC 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
+## Publications on Private LLM Inference Implemented using OpenFHE
+* [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
+
 ## Publications Describing OpenFHE Crypto Algorithms
 
 The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one co-author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of research projects advancing OpenFHE or its predecessors.
