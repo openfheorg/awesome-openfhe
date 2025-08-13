@@ -47,6 +47,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
 * [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - A server-side CKKS GPU library fully interoperable with OpenFHE.
+* [OPENFHE-GPU-PUBLIC](https://github.com/leodec/openfhe-gpu-public) - A GPU library by Leo De Castro (J.P. Morgan).
 
 ## Extensions of OpenFHE
 
