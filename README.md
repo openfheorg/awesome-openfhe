@@ -13,6 +13,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
 * [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
+* [Publications on Private LLM Inference Implemented using OpenFHE](#publications-on-private-llm-inference-implemented-using-OpenFHE)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
@@ -47,6 +48,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
 * [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - A server-side CKKS GPU library fully interoperable with OpenFHE.
+* [OPENFHE-GPU-PUBLIC](https://github.com/leodec/openfhe-gpu-public) - A GPU library by Leo De Castro,  Antigoni Polychroniadou, and Daniel Escudero (J.P. Morgan).
 
 ## Extensions of OpenFHE
 
@@ -63,7 +65,6 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Show & tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
 * [Diamond Indistinguishability Obfuscation](https://github.com/MachinaIO/diamond-io) - See the [blog post](https://machina-io.com/posts/hello_world_first.html) for more information.
 * [Lightweight sorting using approximate homomorphic encryption](https://github.com/lorenzorovida/Lightweight-Sorting-In-Approximate-Homomorphic-Encryption) - See [paper](https://eprint.iacr.org/2025/1150) for more information.
-
 
 ## Videos of Conference Talks on Applications Implemented using OpenFHE
 
@@ -92,6 +93,12 @@ Many of these publications have their open-source implementations available.
 * [HeSUN: homomorphic encryption for secure unbounded neural network inference](https://link.springer.com/chapter/10.1007/978-3-031-64948-6_21) - International Conference on Security and Privacy in Communication Systems 2023
 * [A probabilistic design for practical homomorphic majority voting with intrinsic differential privacy](https://doi.org/10.1145/3605759.3625258) - WAHC 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
+
+## Publications on Private LLM Inference Implemented using OpenFHE
+
+* [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025.
+* [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
+* [Transformer-based language models and homomorphic encryption: an intersection with BERT-tiny](https://dl.acm.org/doi/10.1145/3643651.3659893) - 10th ACM International Workshop on Security and Privacy Analytics (2024).
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
