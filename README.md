@@ -48,7 +48,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 * [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
 * [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - A server-side CKKS GPU library fully interoperable with OpenFHE.
-* [OPENFHE-GPU-PUBLIC](https://github.com/leodec/openfhe-gpu-public) - A GPU library by Leo De Castro (J.P. Morgan).
+* [OPENFHE-GPU-PUBLIC](https://github.com/leodec/openfhe-gpu-public) - A GPU library by Leo De Castro,  Antigoni Polychroniadou, and Daniel Escudero (J.P. Morgan).
 
 ## Extensions of OpenFHE
 
@@ -65,7 +65,6 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Show & tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
 * [Diamond Indistinguishability Obfuscation](https://github.com/MachinaIO/diamond-io) - See the [blog post](https://machina-io.com/posts/hello_world_first.html) for more information.
 * [Lightweight sorting using approximate homomorphic encryption](https://github.com/lorenzorovida/Lightweight-Sorting-In-Approximate-Homomorphic-Encryption) - See [paper](https://eprint.iacr.org/2025/1150) for more information.
-
 
 ## Videos of Conference Talks on Applications Implemented using OpenFHE
 
@@ -97,7 +96,9 @@ Many of these publications have their open-source implementations available.
 
 ## Publications on Private LLM Inference Implemented using OpenFHE
 
+* [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025
 * [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
+* [Transformer-based language models and homomorphic encryption: an intersection with BERT-tiny](https://dl.acm.org/doi/10.1145/3643651.3659893) - 10th ACM International Workshop on Security and Privacy Analytics (2024).
 
 ## Publications Describing OpenFHE Crypto Algorithms
 
