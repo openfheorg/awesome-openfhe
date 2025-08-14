@@ -96,7 +96,7 @@ Many of these publications have their open-source implementations available.
 
 ## Publications on Private LLM Inference Implemented using OpenFHE
 
-* [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025
+* [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025.
 * [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
 * [Transformer-based language models and homomorphic encryption: an intersection with BERT-tiny](https://dl.acm.org/doi/10.1145/3643651.3659893) - 10th ACM International Workshop on Security and Privacy Analytics (2024).
 
