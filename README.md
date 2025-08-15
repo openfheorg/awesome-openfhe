@@ -76,6 +76,9 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 Many of these publications have their open-source implementations available.
 
+* [PrivTuner with homomorphic encryption and LoRA: a P3EFT scheme for privacy-preserving parameter-efficient fine-tuning of AI foundation models](https://arxiv.org/abs/2410.00433) - IEEE Transactions on Wireless Communications 2025.
+* [Privacy-preserving cyberattack detection in blockchain-based IoT systems using AI and homomorphic encryption](https://arxiv.org/abs/2412.13522) - IEEE Internet of Things Journal 2025.
+* [HyDia: FHE-based facial matching with hybrid approximations and diagonalization](https://petsymposium.org/popets/2025/popets-2025-0146.php) - PoPETS 2025.
 * [Engorgio: an arbitrary-precision unbounded-size hybrid encrypted database via quantized fully homomorphic encryption](https://eprint.iacr.org/2025/198) - USENIX Security 2025.
 * [Efficient ranking, order statistics, and sorting under CKKS](https://arxiv.org/abs/2412.15126) - USENIX Security 2025.
 * [Secure and scalable gene expression quantification with pQuant](https://www.nature.com/articles/s41467-025-57393-6) - Nature Communications 2025.
