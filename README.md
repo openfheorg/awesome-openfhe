@@ -13,7 +13,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
 * [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
-* [Publications on Private LLM Inference Implemented using OpenFHE](#publications-on-private-llm-inference-implemented-using-OpenFHE)
+* [Publications & Presentations on Private LLM Inference Implemented using OpenFHE](#publications-&-presentations-on-private-llm-inference-implemented-using-OpenFHE)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
@@ -43,6 +43,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [FHERMA](https://fherma.io/)
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
+* [OpenFHE-NumPy](https://github.com/openfheorg/openfhe-numpy)
 
 ## Hardware Acceleration
 
@@ -97,8 +98,9 @@ Many of these publications have their open-source implementations available.
 * [A probabilistic design for practical homomorphic majority voting with intrinsic differential privacy](https://doi.org/10.1145/3605759.3625258) - WAHC 2023.
 * [Secure large-scale genome-wide association studies using homomorphic encryption](https://www.pnas.org/doi/full/10.1073/pnas.1918257117) - Proceedings of the National Academy of Sciences (PNAS) 2020.
 
-## Publications on Private LLM Inference Implemented using OpenFHE
+## Publications & Presentations on Private LLM Inference Implemented using OpenFHE
 
+* [Latest trends and results in PPML using FHE](https://github.com/user-attachments/files/22145624/Yuriy_Polyakov_Latest_Trends_and_Results_in_PPML_using_FHE_v1.pdf) - CRYPTO PPML Workshop 2025.
 * [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025.
 * [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
 * [Transformer-based language models and homomorphic encryption: an intersection with BERT-tiny](https://dl.acm.org/doi/10.1145/3643651.3659893) - 10th ACM International Workshop on Security and Privacy Analytics (2024).
