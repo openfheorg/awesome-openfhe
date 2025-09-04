@@ -13,7 +13,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
 * [Publications on Applications Implemented using OpenFHE](#publications-on-applications-implemented-using-openfhe)
-* [Publications & Presentations on Private LLM Inference Implemented using OpenFHE](#publications-presentations-on-private-llm-inference-implemented-using-OpenFHE)
+* [Publications & Presentations on Private LLM Inference Implemented using OpenFHE](#publications--presentations-on-private-llm-inference-implemented-using-OpenFHE)
 * [Publications Describing OpenFHE Crypto Algorithms](#publications-describing-openfhe-crypto-algorithms)
 * [Publications with New Crypto Algorithms](#publications-with-new-crypto-algorithms)
 
