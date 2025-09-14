@@ -33,6 +33,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 ## Tutorials
 
+* [OpenFHE Crash Course](https://jdumezy.com/blog/openfhe-crash-course/) - July 2025.
 * [Homomorphic Encryption using OpenFHE](https://www.youtube.com/watch?v=1aeasUAoUAA) - August 2024.
 * [OpenFHE AAAI 2024 Tutorial (Python)](https://github.com/openfheorg/aaai-2024-lab-materials) - February 2024.
 * [PALISADE (OpenFHE predecessor) webinars](https://openfhe.org/webinars/) - 2020 to 2021
@@ -110,6 +111,7 @@ Many of these publications have their open-source implementations available.
 The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one co-author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of research projects advancing OpenFHE or its predecessors.
 
 ### FHE Algorithms
+* [General functional bootstrapping using CKKS](https://eprint.iacr.org/2024/1623) - CRYPTO 2025
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
 * [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
 * [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
@@ -132,7 +134,6 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
-* [General functional bootstrapping using CKKS](https://eprint.iacr.org/2024/1623) - CRYPTO 2025
 * [NTRU-based bootstrapping for MK-FHEs without using overstretched parameters](https://eprint.iacr.org/2024/1898) - ASIACRYPT 2024
 * [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
 * [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
