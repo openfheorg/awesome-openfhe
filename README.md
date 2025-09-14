@@ -33,6 +33,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 ## Tutorials
 
+* [OpenFHE Crash Course](https://jdumezy.com/blog/openfhe-crash-course/) - July 2025.
 * [Homomorphic Encryption using OpenFHE](https://www.youtube.com/watch?v=1aeasUAoUAA) - August 2024.
 * [OpenFHE AAAI 2024 Tutorial (Python)](https://github.com/openfheorg/aaai-2024-lab-materials) - February 2024.
 * [PALISADE (OpenFHE predecessor) webinars](https://openfhe.org/webinars/) - 2020 to 2021
