@@ -40,7 +40,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 ## Products and Solutions using OpenFHE
 
-* [Duality Query](https://dualitytech.com/platform/duality-query/)
+* [Duality Platform - Secure Query](https://dualitytech.com/platform/duality-query/)
 * [FHERMA](https://fherma.io/)
 * [Google HEIR](https://github.com/google/heir)
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
