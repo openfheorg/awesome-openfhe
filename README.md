@@ -135,10 +135,11 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [Evaluating larger lookup tables using CKKS](https://eprint.iacr.org/2025/1301) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
 * [NTRU-based bootstrapping for MK-FHEs without using overstretched parameters](https://eprint.iacr.org/2024/1898) - ASIACRYPT 2024
 * [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
 * [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
-* [Fast and accurate: efficient full-domain functional bootstrap and digit decomposition for homomorphic computation](https://tches.iacr.org/index.php/TCHES/article/view/11263/10805) -  IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
+* [Fast and accurate: efficient full-domain functional bootstrap and digit decomposition for homomorphic computation](https://tches.iacr.org/index.php/TCHES/article/view/11263/10805) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
 * [Non-interactive private multivariate function evaluation using homomorphic table lookup](https://cic.iacr.org/p/1/3/19/pdf) - IACR Communications in Cryptology (CiC) 2024.
 * [Fast blind rotation for bootstrapping FHEs](https://eprint.iacr.org/2023/1564) - CRYPTO 2023.
 
