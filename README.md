@@ -78,7 +78,9 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 Many of these publications have their open-source implementations available.
 
-* [Secure numerical simulations using fully homomorphic encryption](https://doi.org/10.1016/j.cpc.2025.109868) - Computer Physics Communications 2025.
+* [Secure change-point detection for time series under homomorphic encryption](https://doi.org/10.48550/arXiv.2601.05865) - PoPETS 2026.
+* [Secure numerical simulations using fully homomorphic encryption](https://doi.org/10.1016/j.cpc.2025.109868) - Computer Physics Communications 2026.
+* [IDFace: Face template protection for efficient and secure identification](https://doi.org/10.48550/arXiv.2507.12050) - IEEE International Conference on Computer Vision 2025.
 * [PrivTuner with homomorphic encryption and LoRA: a P3EFT scheme for privacy-preserving parameter-efficient fine-tuning of AI foundation models](https://arxiv.org/abs/2410.00433) - IEEE Transactions on Wireless Communications 2025.
 * [Privacy-preserving cyberattack detection in blockchain-based IoT systems using AI and homomorphic encryption](https://arxiv.org/abs/2412.13522) - IEEE Internet of Things Journal 2025.
 * [HyDia: FHE-based facial matching with hybrid approximations and diagonalization](https://petsymposium.org/popets/2025/popets-2025-0146.php) - PoPETS 2025.
@@ -102,6 +104,7 @@ Many of these publications have their open-source implementations available.
 
 ## Publications & Presentations on Private LLM Inference Implemented using OpenFHE
 
+* [Tech keeps chatbots from leaking your data](https://spectrum.ieee.org/homomorphic-encryption-llm) - IEEE Spectrum 2025.
 * [Latest trends and results in PPML using FHE](https://github.com/user-attachments/files/22145624/Yuriy_Polyakov_Latest_Trends_and_Results_in_PPML_using_FHE_v1.pdf) - CRYPTO PPML Workshop 2025.
 * [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025.
 * [Privacy-preserving large language model inference via GPU-accelerated fully homomorphic encryption](https://openreview.net/pdf?id=Rs7h1od6ov) - Neurips Safe Generative AI Workshop 2024.
@@ -136,6 +139,7 @@ The algorithms in these publications are already implemented in the official dis
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
 * [Evaluating larger lookup tables using CKKS](https://eprint.iacr.org/2025/1301) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
+* [Application-aware approximate homomorphic encryption: Configuring FHE for practical use](https://doi.org/10.62056/ayl83z10k) - IACR Communications in Cryptology (CiC) 2026.
 * [NTRU-based bootstrapping for MK-FHEs without using overstretched parameters](https://eprint.iacr.org/2024/1898) - ASIACRYPT 2024
 * [Circuit bootstrapping: faster and smaller](https://eprint.iacr.org/2024/323) - EUROCRYPT 2024
 * [Faster NTRU-based bootstrapping in less than 4 ms](https://tches.iacr.org/index.php/TCHES/article/view/11683/11203) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024.
