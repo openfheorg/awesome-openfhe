@@ -7,7 +7,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [OpenFHE Software Interfaces](#openfhe-software-interfaces)
 * [Documentation Resources](#documentation-resources)
 * [Tutorials](#tutorials)
-* [Products and Solutions using OpenFHE](#products-and-solutions-using-openfhe)
+* [Products, Frameworks, and Toolchains using OpenFHE](#products-frameworks-and-toolchains-using-openfhe)
 * [Hardware Acceleration](#hardware-acceleration)
 * [Extensions of OpenFHE](#extensions-of-openfhe)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
