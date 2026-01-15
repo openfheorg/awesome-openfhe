@@ -64,6 +64,8 @@ A curated list of amazing tools, products, tutorials, applications, publications
 ## Lists of Open-Source User Projects
 
 * [Contrib repository](https://github.com/openfheorg/contrib) - A curated list of open-source community-contributed projects based on OpenFHE.
+* [FHE benchmarking suite - Fetch-by-similarity workload](https://github.com/fhe-benchmarking/fetch-by-similarity) - Fetch-by-cosine-similarity reference workload.
+* [FHE benchmarking suite - ML inference](https://github.com/fhe-benchmarking/ml-inference) - ML-inference reference workload.
 * [Show & tell](https://openfhe.discourse.group/c/application/5) - Projects shared in the OpenFHE Discourse forum.
 * [Diamond Indistinguishability Obfuscation](https://github.com/MachinaIO/diamond-io) - See the [blog post](https://machina-io.com/posts/hello_world_first.html) for more information.
 * [Lightweight sorting using approximate homomorphic encryption](https://github.com/lorenzorovida/Lightweight-Sorting-In-Approximate-Homomorphic-Encryption) - See [paper](https://eprint.iacr.org/2025/1150) for more information.
