@@ -38,13 +38,14 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [OpenFHE AAAI 2024 Tutorial (Python)](https://github.com/openfheorg/aaai-2024-lab-materials) - February 2024.
 * [PALISADE (OpenFHE predecessor) webinars](https://openfhe.org/webinars/) - 2020 to 2021
 
-## Products and Solutions using OpenFHE
+## Products, Frameworks, and Toolchains using OpenFHE
 
-* [Duality Platform - Secure Query](https://dualitytech.com/platform/duality-query/)
-* [FHERMA](https://fherma.io/)
-* [Google HEIR](https://github.com/google/heir)
-* [Google Transpiler](https://github.com/google/fully-homomorphic-encryption)
-* [OpenFHE-NumPy](https://github.com/openfheorg/openfhe-numpy)
+* [Duality Platform - Secure Query](https://dualitytech.com/platform/duality-query/) - Product for zero-footprint investigations.
+* [FHEON](https://github.com/stamcenter/fheon) - Configurable framework for developing encrypted neural networks.
+* [FHERMA](https://fherma.io/) - Platform for ML and blockchain FHE challenges.
+* [Google HEIR](https://github.com/google/heir) - MLIR-based toolchain for homomorphic encryption compilers.
+* [Google Transpiler](https://github.com/google/fully-homomorphic-encryption) - C++ to FHE compiler.
+* [OpenFHE-NumPy](https://github.com/openfheorg/openfhe-numpy) - Numpy-like encrypted matrix arithmetic library.
 
 ## Hardware Acceleration
 
