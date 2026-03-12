@@ -84,6 +84,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 Many of these publications have their open-source implementations available.
 
+* [PipFHE: Resource-efficient privacy-preserving deep CNN inference via padded batch packing and channel merging over FHE](https://doi.org/10.46586/tches.v2026.i1.1-25) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
 * [Secure change-point detection for time series under homomorphic encryption](https://doi.org/10.48550/arXiv.2601.05865) - PoPETS 2026.
 * [Secure numerical simulations using fully homomorphic encryption](https://doi.org/10.1016/j.cpc.2025.109868) - Computer Physics Communications 2026.
 * [IDFace: Face template protection for efficient and secure identification](https://doi.org/10.48550/arXiv.2507.12050) - IEEE International Conference on Computer Vision 2025.
