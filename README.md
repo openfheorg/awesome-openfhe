@@ -8,7 +8,8 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Documentation Resources](#documentation-resources)
 * [Tutorials](#tutorials)
 * [Products, Frameworks, and Toolchains using OpenFHE](#products-frameworks-and-toolchains-using-openfhe)
-* [Hardware Acceleration](#hardware-acceleration)
+* [Hardware Acceleration - Official Backends and Libraries](#hardware-acceleration---official-backends-and-libraries)
+* [Hardware Acceleration - Prototypes](#hardware-acceleration---prototypes)
 * [Extensions of OpenFHE](#extensions-of-openfhe)
 * [Lists of Open-Source User Projects](#lists-of-open-source-user-projects)
 * [Videos of Conference Talks on Applications Implemented using OpenFHE](#videos-of-conference-talks-on-applications-implemented-using-openfhe)
@@ -47,10 +48,12 @@ A curated list of amazing tools, products, tutorials, applications, publications
 * [Google Transpiler](https://github.com/google/fully-homomorphic-encryption) - C++ to FHE compiler.
 * [OpenFHE-NumPy](https://github.com/openfheorg/openfhe-numpy) - Numpy-like encrypted matrix arithmetic library.
 
-## Hardware Acceleration
+## Hardware Acceleration - Official Backends and Libraries
 
-* [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
-* [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - A server-side CKKS GPU library fully interoperable with OpenFHE.
+* [openfhe-hexl](https://github.com/openfheorg/openfhe-hexl) - AVX: Intel HEXL library backend for OpenFHE (for acceleration on Intel processors).
+* [FIDESlib](https://github.com/CAPS-UMU/FIDESlib) - GPU: A server-side CKKS GPU library fully interoperable with OpenFHE.
+   
+## Hardware Acceleration - Prototypes
 * [OPENFHE-GPU-PUBLIC](https://github.com/leodec/openfhe-gpu-public) - A GPU library by Leo De Castro,  Antigoni Polychroniadou, and Daniel Escudero (J.P. Morgan).
 
 ## Extensions of OpenFHE
