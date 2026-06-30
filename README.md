@@ -85,6 +85,8 @@ A curated list of amazing tools, products, tutorials, applications, publications
 Many of these publications have their open-source implementations available.
 
 * [SophOMR: Improved oblivious message retrieval from SIMD-aware homomorphic compression](https://eprint.iacr.org/2024/1814) - USENIX Security 2026.
+* [FHEON: A configurable framework for developing privacy-preserving neural networks using homomorphic encryption](https://arxiv.org/abs/2510.03996) - PoPETS 2026.
+* [SentinelTouch: A lightweight privacy-preserving biometric-fingerprinting authentication and identification system based on neural networks and homomorphic encryption](https://petsymposium.org/popets/2026/popets-2026-0041.pdf) - PoPETS 2026.
 * [PipFHE: Resource-efficient privacy-preserving deep CNN inference via padded batch packing and channel merging over FHE](https://doi.org/10.46586/tches.v2026.i1.1-25) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
 * [Secure change-point detection for time series under homomorphic encryption](https://doi.org/10.48550/arXiv.2601.05865) - PoPETS 2026.
 * [Secure numerical simulations using fully homomorphic encryption](https://doi.org/10.1016/j.cpc.2025.109868) - Computer Physics Communications 2026.
@@ -112,6 +114,14 @@ Many of these publications have their open-source implementations available.
 
 ## Publications & Presentations on Private LLM Inference Implemented using OpenFHE
 
+* [SoK: private LLM inference using approximate homomorphic encryption](https://eprint.iacr.org/2026/935) - 
+Cryptology ePrint Archive, Paper 2026/935.
+* [PriTran: privacy-preserving inference for transformer-based language models under fully homomorphic encryption](https://doi.org/10.1109/CGO68049.2026.11395232) - 
+ 2026 IEEE/ACM International Symposium on Code Generation and Optimization (CGO).
+* [ELLMo: packing- and depth-aware encrypted transformer inference](https://eprint.iacr.org/2026/198) - 
+Cryptology ePrint Archive, Paper 2026/198.
+* [ENSI: efficient non-interactive secure inference for large language models](https://doi.org/10.1109/SRDS69199.2025.00021) - 
+2025 44th International Symposium on Reliable Distributed Systems (SRDS).
 * [Tech keeps chatbots from leaking your data](https://spectrum.ieee.org/homomorphic-encryption-llm) - IEEE Spectrum 2025.
 * [Latest trends and results in PPML using FHE](https://github.com/user-attachments/files/22145624/Yuriy_Polyakov_Latest_Trends_and_Results_in_PPML_using_FHE_v1.pdf) - CRYPTO PPML Workshop 2025.
 * [Tricycle: private transformer inference with tricyclic encodings](https://eprint.iacr.org/2025/1200) - Cryptology ePrint Archive 2025.
@@ -146,6 +156,7 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [Fully homomorphic encryption for matrix arithmetic](https://eprint.iacr.org/2025/1935) - CRYPTO 2026.
 * [High-precision functional bootstrapping for CKKS from Fourier extension](https://eprint.iacr.org/2026/367) - EUROCRYPT 2026.
 * [Evaluating larger lookup tables using CKKS](https://eprint.iacr.org/2025/1301) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
 * [Application-aware approximate homomorphic encryption: Configuring FHE for practical use](https://doi.org/10.62056/ayl83z10k) - IACR Communications in Cryptology (CiC) 2026.
