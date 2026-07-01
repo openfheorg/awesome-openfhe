@@ -156,6 +156,7 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [FHE for SIMD arithmetic logic units with O(1) amortized bootstrapping per ciphertext](https://eprint.iacr.org/2026/233) - CRYPTO 2026.
 * [Fully homomorphic encryption for matrix arithmetic](https://eprint.iacr.org/2025/1935) - CRYPTO 2026.
 * [High-precision functional bootstrapping for CKKS from Fourier extension](https://eprint.iacr.org/2026/367) - EUROCRYPT 2026.
 * [Evaluating larger lookup tables using CKKS](https://eprint.iacr.org/2025/1301) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
