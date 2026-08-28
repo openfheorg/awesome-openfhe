@@ -84,6 +84,7 @@ A curated list of amazing tools, products, tutorials, applications, publications
 
 Many of these publications have their open-source implementations available.
 
+* [Bridging usability and performance: A tensor compiler for autovectorizing homomorphic encryption](https://eprint.iacr.org/2025/1319) - USENIX Security 2026.
 * [SophOMR: Improved oblivious message retrieval from SIMD-aware homomorphic compression](https://eprint.iacr.org/2024/1814) - USENIX Security 2026.
 * [FHEON: A configurable framework for developing privacy-preserving neural networks using homomorphic encryption](https://arxiv.org/abs/2510.03996) - PoPETS 2026.
 * [SentinelTouch: A lightweight privacy-preserving biometric-fingerprinting authentication and identification system based on neural networks and homomorphic encryption](https://petsymposium.org/popets/2026/popets-2026-0041.pdf) - PoPETS 2026.
@@ -156,6 +157,7 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [New techniques for fast and shallow FHE bootstrapping and beyond](https://eprint.iacr.org/2026/1730) - CRYPTO 2026.
 * [FHE for SIMD arithmetic logic units with O(1) amortized bootstrapping per ciphertext](https://eprint.iacr.org/2026/233) - CRYPTO 2026.
 * [Fully homomorphic encryption for matrix arithmetic](https://eprint.iacr.org/2025/1935) - CRYPTO 2026.
 * [High-precision functional bootstrapping for CKKS from Fourier extension](https://eprint.iacr.org/2026/367) - EUROCRYPT 2026.
