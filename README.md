@@ -157,6 +157,9 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [Character block encodings for discrete CKKS: Single-level LUTs and low-depth arithmetic](https://eprint.iacr.org/2026/1200) - ASIACRYPT 2026.
+* [Faster CoeffToSlot and SlotToCoeff for sparsely packed ciphertexts with application to CKKS bootstrapping](https://eprint.iacr.org/2026/1023) - ASIACRYPT 2026.
+* [Sparse Hermite interpolation method for discrete-CKKS functional bootstrapping](https://eprint.iacr.org/2026/1026) - ASIACRYPT 2026.
 * [New techniques for fast and shallow FHE bootstrapping and beyond](https://eprint.iacr.org/2026/1730) - CRYPTO 2026.
 * [FHE for SIMD arithmetic logic units with O(1) amortized bootstrapping per ciphertext](https://eprint.iacr.org/2026/233) - CRYPTO 2026.
 * [Fully homomorphic encryption for matrix arithmetic](https://eprint.iacr.org/2025/1935) - CRYPTO 2026.
