@@ -157,6 +157,7 @@ The algorithms in these publications are already implemented in the official dis
 
 OpenFHE was used to implement the new algorithms referenced below. Note that these algorithms have not been added to the official OpenFHE distribution yet.
 
+* [HEGIDE: A MIMD oblivious processor for private function evaluation over CKKS](https://eprint.iacr.org/2026/1187) - CCS 2026.
 * [Character block encodings for discrete CKKS: Single-level LUTs and low-depth arithmetic](https://eprint.iacr.org/2026/1200) - ASIACRYPT 2026.
 * [Faster CoeffToSlot and SlotToCoeff for sparsely packed ciphertexts with application to CKKS bootstrapping](https://eprint.iacr.org/2026/1023) - ASIACRYPT 2026.
 * [Sparse Hermite interpolation method for discrete-CKKS functional bootstrapping](https://eprint.iacr.org/2026/1026) - ASIACRYPT 2026.
