@@ -134,7 +134,8 @@ Cryptology ePrint Archive, Paper 2026/198.
 The algorithms in these publications are already implemented in the official distribution of OpenFHE. All of these papers have at least one co-author from the [OpenFHE design paper](https://eprint.iacr.org/2022/915) and most of these works were prepared as part of research projects advancing OpenFHE or its predecessors.
 
 ### FHE Algorithms
-* [General functional bootstrapping using CKKS](https://eprint.iacr.org/2024/1623) - CRYPTO 2025
+* [High-precision functional bootstrapping for CKKS from Fourier extension](https://eprint.iacr.org/2026/367) - EUROCRYPT 2026.
+* [General functional bootstrapping using CKKS](https://eprint.iacr.org/2024/1623) - CRYPTO 2025.
 * [HRA-secure homomorphic lattice-based proxy re-encryption with tight security](https://eprint.iacr.org/2024/681) - IACR Communications in Cryptology (CiC) 2025.
 * [Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption](https://eprint.iacr.org/2022/198) - EUROCRYPT 2023.
 * [High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application](https://eprint.iacr.org/2023/1462) - WAHC 2023.
@@ -164,7 +165,6 @@ OpenFHE was used to implement the new algorithms referenced below. Note that the
 * [New techniques for fast and shallow FHE bootstrapping and beyond](https://eprint.iacr.org/2026/1730) - CRYPTO 2026.
 * [FHE for SIMD arithmetic logic units with O(1) amortized bootstrapping per ciphertext](https://eprint.iacr.org/2026/233) - CRYPTO 2026.
 * [Fully homomorphic encryption for matrix arithmetic](https://eprint.iacr.org/2025/1935) - CRYPTO 2026.
-* [High-precision functional bootstrapping for CKKS from Fourier extension](https://eprint.iacr.org/2026/367) - EUROCRYPT 2026.
 * [Evaluating larger lookup tables using CKKS](https://eprint.iacr.org/2025/1301) - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2026.
 * [Application-aware approximate homomorphic encryption: Configuring FHE for practical use](https://doi.org/10.62056/ayl83z10k) - IACR Communications in Cryptology (CiC) 2026.
 * [NTRU-based bootstrapping for MK-FHEs without using overstretched parameters](https://eprint.iacr.org/2024/1898) - ASIACRYPT 2024.
